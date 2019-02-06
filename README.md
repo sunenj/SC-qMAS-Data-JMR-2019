@@ -1,7 +1,7 @@
 # SC-qMAS-Data-JMR-2019
 Diffusion data used in JMR, Vol 300 (2019), p. 84-94. Doi: 10.1016/j.jmr.2019.01.007 
 
-A description of the .mat file contents can be found below. Feel free to 
+A description of the .mat files contents can be found below. Feel free to 
 use the included data but please cite 
 
 Sune Nørhøj Jespersen, Jonas Lynge Olesen, Andrada Ianuş, Noam Shemesh,
